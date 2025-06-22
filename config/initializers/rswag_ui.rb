@@ -5,7 +5,7 @@ Rswag::Ui.configure do |c|
   # on the page. Remember, this is just a URL - you're not binding a Ruby class
   # or any other kind of component, so it can be used to document APIs defined
   # in other projects or files.
-  c.openapi_endpoint '/api-docs/v1/swagger.yaml', 'API V1 Docs'
+  c.openapi_endpoint "/api-docs/v1/swagger.yaml", "API V1 Docs"
 
   # Add Basic Auth in case your API is private
   # c.basic_auth_enabled = true
