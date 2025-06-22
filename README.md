@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+How To Use
+* `make upd` in terminal
+* open `http://localhost:3000/api-docs/index.html`
