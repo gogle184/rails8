@@ -45,7 +45,7 @@ logs:
 	docker compose logs -f
 
 # webコンテナに入る
-shell:
+b:
 	docker compose exec web bash
 
 # Rails コンソール
